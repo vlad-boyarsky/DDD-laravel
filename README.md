@@ -22,3 +22,7 @@
 <li>In your team you must have general terminology.</li>
 <li>Ask many questions to domain-business for more understanding of a plan.</li>
 </ul>
+<pre>
+<p><i>At first of all describe objects and their interaction.</i></p>
+<p><i>After that go to the controllers and models etc.</i></p>
+</pre>
