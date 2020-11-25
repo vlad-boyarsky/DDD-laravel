@@ -1,7 +1,7 @@
 <h1>DDD-laravel</h1>
-DDD (Domain-Driven Design) for Laravel project &amp; Onion Architecture
+<a href="https://en.wikipedia.org/wiki/Domain-driven_design" target="_blank">DDD (Domain-Driven Design)</a> for Laravel project &amp; Onion Architecture
 
-<p>Just remember DDD, this is just a recommendation</p>
+<p>Just remember DDD, this is just a recommendation.</p>
 </hr>
 <h2>1.Domain Experts</h2>
 <ul>
