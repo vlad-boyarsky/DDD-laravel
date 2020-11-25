@@ -16,3 +16,9 @@
 <li>We must get main info and knowledge about domain.</li>
 <li>We must learn to explain all technical moments to domain-business.(So we must learn to explain all the technical part on their language).</li>
 </ul>
+</hr>
+<h2>IMPORTANT</h2>
+<ul>
+<li>In your team you must have general terminology.</li>
+<li>Ask many questions to domain-business for more understanding of a plan.</li>
+</ul>
