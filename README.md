@@ -33,8 +33,15 @@
 <li>General understanding of the subject area (domain)</li>
 </ul>
 -
+<h3>AGGREGATIONS</h3>
+<b>[</b>
 <h3>Entity</h3>
 <ul>
 <li>Describes individually existing domain elements</li>
 </ul>
+<h3>VO (Value Object)</h3>
+<ul>
+<li>Carries a collection sense. (<i>example: Products quantity</i>)</li>
+</ul>
+<b>]</b>
 -
