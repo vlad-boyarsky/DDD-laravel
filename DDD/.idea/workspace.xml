@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb437139-037a-4375-beee-99aaed9db706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Domain/Payment/Clients/Exceptions/AddressNotValidException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Domain/Payment/Clients/Repositories/AddressRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Domain/Payment/Clients/Repositories/AddressRepositoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Domain/Payment/Clients/Repositories/AddressRepositoryInterface.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +168,7 @@
       <updated>1606220850238</updated>
       <workItem from="1606220904564" duration="1247000" />
       <workItem from="1606310111984" duration="1254000" />
-      <workItem from="1606401628725" duration="831000" />
+      <workItem from="1606401628725" duration="3105000" />
     </task>
     <servers />
   </component>

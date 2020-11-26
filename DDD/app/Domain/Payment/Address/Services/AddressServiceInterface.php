@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Domain\Payment\Clients\Services;
+namespace Domain\Payment\Address\Services;
 
 
 class AddressServiceInterface
