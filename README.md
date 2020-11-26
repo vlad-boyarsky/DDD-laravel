@@ -26,3 +26,5 @@
 <p><i>At first of all describe objects and their interaction.</i></p>
 <p><i>After that go to the controllers and models etc.</i></p>
 </pre>
+<hr>
+<h2>🧅 Onion Principle 🧅</h2>
