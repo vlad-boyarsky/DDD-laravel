@@ -59,3 +59,9 @@
 <ul>
 <li>Realisation of our repositories and services.</li>
 </ul>
+<hr>
+<h3>DTO (Data Transfer Object)</h3>
+<ul>
+<li>NO Logic.</li>
+<li>Required to transfer data between layers in application.</li>
+</ul>
