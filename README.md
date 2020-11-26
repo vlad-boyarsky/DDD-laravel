@@ -65,3 +65,9 @@
 <li>NO Logic.</li>
 <li>Required to transfer data between layers in application.</li>
 </ul>
+<hr>
+<h3>5. Application</h3>
+<ul>
+<li>App configuration</li>
+<li>Rounting</li>
+</ul>
