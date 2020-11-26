@@ -30,19 +30,32 @@
 <h2>🧅 Onion Principle 🧅</h2>
 <h3>1. Domain Layer</h3>
 <ul>
-<li>General understanding of the subject area (domain)</li>
+<li>General understanding of the subject area (domain).</li>
 </ul>
 -
 <h3>AGGREGATIONS</h3>
 <b>[</b>
 <h3>Entity</h3>
 <ul>
-<li>Describes individually existing domain elements</li>
+<li>Describes individually existing domain elements.</li>
 </ul>
 <h3>VO (Value Object)</h3>
 <ul>
-<li>Carries a collection sense. (<i>example: Products quantity</i>)</li>
+<li>Carries a collection sense. (<i>example: Products quantity</i>).</li>
 </ul>
 <b>]</b>
 <hr>
 <h3>2. Repository Interface </h3>
+<ul>
+<li>Realisation work with database.</li>
+</ul>
+<hr>
+<h3>3. Domain Service Interface </h3>
+<ul>
+<li>Interfaces for operation with domain model.</li>
+</ul>
+<hr>
+<h3>4. Infrastructure layer </h3>
+<ul>
+<li>Realisation of our repositories and services.</li>
+</ul>
