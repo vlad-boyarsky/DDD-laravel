@@ -28,7 +28,7 @@
 </pre>
 <hr>
 <h2>🧅 Onion Principle 🧅</h2>
-<h3>Domain Layer</h3>
+<h3>1. Domain Layer</h3>
 <ul>
 <li>General understanding of the subject area (domain)</li>
 </ul>
@@ -44,4 +44,5 @@
 <li>Carries a collection sense. (<i>example: Products quantity</i>)</li>
 </ul>
 <b>]</b>
--
+<hr>
+<h3>2. Repository Interface </h3>
