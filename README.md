@@ -28,3 +28,13 @@
 </pre>
 <hr>
 <h2>🧅 Onion Principle 🧅</h2>
+<h3>Domain Layer</h3>
+<ul>
+<li>General understanding of the subject area (domain)</li>
+</ul>
+-
+<h3>Entity</h3>
+<ul>
+<li>Describes individually existing domain elements</li>
+</ul>
+-
