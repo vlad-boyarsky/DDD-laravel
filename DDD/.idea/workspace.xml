@@ -174,13 +174,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="228" key="NewPhpClassDialog" timestamp="1606402419707">
+    <state x="480" y="228" key="NewPhpClassDialog" timestamp="1606402678325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="480" y="228" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1606402419707" />
-    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1606402360164">
+    <state x="480" y="228" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1606402678325" />
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1606402635731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1606402360164" />
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1606402635731" />
   </component>
 </project>
